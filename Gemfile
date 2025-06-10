@@ -64,6 +64,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "http", "~> 5.2"
+gem "http", "~> 5.3"
 
 gem "async-http", "~> 0.88.0"
